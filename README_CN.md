@@ -1,6 +1,15 @@
 # ThemeKit
 
+<div align="center">  
+  <img src="https://img.shields.io/badge/iOS-13.0%2B-blue" alt="iOS 13.0+">
+  <img src="https://img.shields.io/badge/Swift-5.9%2B-orange" alt="Swift 5.9+">
+  <img src="https://img.shields.io/badge/SwiftUI%2BUIKit-hotpink" alt="SwiftUI + UIKit">
+</div>
+
+<br />
 一个同时支持 Objective-C、Swift 和 SwiftUI 的 iOS 主题框架。
+
+---
 
 ## 特性
 

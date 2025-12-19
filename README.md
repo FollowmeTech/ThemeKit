@@ -1,6 +1,17 @@
 # ThemeKit
 
+<div align="center">  
+  <img src="https://img.shields.io/badge/iOS-13.0%2B-blue" alt="iOS 13.0+">
+  <img src="https://img.shields.io/badge/Swift-5.9%2B-orange" alt="Swift 5.9+">
+  <img src="https://img.shields.io/badge/SwiftUI%2BUIKit-hotpink" alt="SwiftUI + UIKit">
+</div>
+
+<br />
+> 🇨🇳 Looking for the Chinese README? See [README_CN.md](./README_CN.md).
+
 An iOS theme framework that supports Objective-C, Swift, and SwiftUI simultaneously.
+
+---
 
 ## Features
 

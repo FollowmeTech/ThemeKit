@@ -7,9 +7,10 @@
 </div>
 
 <br />
-> 🇨🇳 Looking for the Chinese README? See [README_CN.md](./README_CN.md).
 
 An iOS theme framework that supports Objective-C, Swift, and SwiftUI simultaneously.
+
+> 🇨🇳 Looking for the Chinese README? See [README_CN.md](./README_CN.md).
 
 ---
 
